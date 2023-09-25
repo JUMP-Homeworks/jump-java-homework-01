@@ -13,7 +13,7 @@
 	
 4. Make a copy of the form from step #1 and place it within this folder
 	
-5. and copy the URL for the form
+5. On the form, select the <b>Send</b> button at the top, then the Link icon, and copy the URL for the form
 	
 6. Send that link over slack and make sure to let students know they must turn it in by start of class the following day
 
